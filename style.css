@@ -1,9 +1,13 @@
 #container{
     display: flex;
-    background-color:#33475b;
+    background-color:#414a4c;
     flex-direction: column;
     flex-wrap: wrap;
-    padding:3%;
+    padding-left:12%;
+    padding-right:12%;
+    font-size: larger;
+    line-height: 1.8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 };
 
 h2{
